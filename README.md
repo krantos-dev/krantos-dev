@@ -12,4 +12,9 @@
 - ✴ Hobbies: Coding 💻 + Guitar 🎸 + Kickboxing 🥊 + Freediving 🏊
 
 ---
-# krantos-dev
+
+### My Resume:
+
+---
+
+- 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/krantos/).
